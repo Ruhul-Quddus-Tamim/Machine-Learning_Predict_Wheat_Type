@@ -1,4 +1,4 @@
-Computation Intelligence 
+Computation Intelligence (2022)
 
 Inputs to the Problem is 3 types of wheat seeds data (as listed in UCI machine learning repository). The machine learning algorithm is used for classification is Supervised Learning. The algorithm is defined by its use of labeled datasets to train algorithms that to classify data or predict outcomes accurately. As input data is fed into the sequential model, it adjusts its weights until the model has been fitted appropriately, which occurs as part of the cross validation process.It learns task of learning a function that maps an input to an output based on example input-output pairs. The training and testing seeds data is splitted into 70% and 30%. The model is written in Python. 
 
